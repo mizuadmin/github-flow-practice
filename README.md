@@ -1,2 +1,7 @@
 # github-flow-practice
-github-flow-practiceの練習
+はじめてのプルリクエスト。
+
+自己紹介もしましょう。
+名前はテスト太郎です。
+
+猫ねこねこー！
